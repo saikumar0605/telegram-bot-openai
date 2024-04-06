@@ -1,4 +1,4 @@
-# telegram Bot Using OpenAI
+# Telegram Bot Using OpenAI
 The Telegram Chatbot with GPT-3.5 Turbo is an intelligent conversational agent designed to interact with users on the popular messaging platform Telegram. Leveraging the cutting-edge capabilities of OpenAI's GPT-3.5 Turbo DSM 1.0 model, this bot can engage users in natural and meaningful conversations, providing responses that are contextually relevant and human-like.
 
 
